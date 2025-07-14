@@ -19,7 +19,7 @@ It highlights my skills, education, and projects in a clean and responsive layou
 ## 🚀 Deployment
 
 This portfolio is deployed using **GitHub Pages** and can be viewed live at:  
-👉 
+👉  [https://maithili2004.github.io/Portfolio/](https://maithili2004.github.io/Portfolio/)
 
 ## 📁 Folder Structure
 
