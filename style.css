@@ -88,6 +88,17 @@
             align-items: center;
             gap: 1rem;
         }
+        
+        #link{
+          margin-bottom: 1rem;
+          padding:1rem;
+          width:150px;
+          height: 20px;
+          text-align: center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
 
         .theme-toggle {
             background: none;
